@@ -7,6 +7,8 @@ For Social Networks Data Mining Subject
 
 [**Models (Database)**](https://docs.djangoproject.com/en/2.0/topics/db/models/)
 
+[**DB Queries**](https://docs.djangoproject.com/en/2.0/topics/db/queries/)
+
 [**DB Browser for SQLite**](http://sqlitebrowser.org)
 
 ### How to create database
