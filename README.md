@@ -11,6 +11,6 @@ For Social Networks Data Mining Subject
 
 ### How to create database
   
-1. Create models.py
+1. Create models.py file.
 2. Make new migrations run "python manage.py makemigrations <app_name>" in shell. 
-3. And then run "python manage.py migrate" to apply them
+3. And then run "python manage.py migrate" to apply them.
