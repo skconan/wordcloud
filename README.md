@@ -14,3 +14,11 @@ For Social Networks Data Mining Subject
 1. Create models.py file.
 2. Make new migrations run "python manage.py makemigrations <app_name>" in shell. 
 3. And then run "python manage.py migrate" to apply them.
+
+
+## Git command
+
+* git pull <repository> <branch>    : Pull and merge data from Github (repository branch) to local e.g. git pull origin master.
+* git add  <file>                   : Add files to index.
+* git commit -m <message>           : Record changes to the repository
+* git push <repository> <branch>    : Push data to Github.
