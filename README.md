@@ -11,6 +11,12 @@ For Social Networks Data Mining Subject
 
 [**DB Browser for SQLite**](http://sqlitebrowser.org)
 
+## Django File
+
+* urls.py : url dispatcher.
+* views.py : Web request and returns a Web response.
+* models.py :  Definitive source of information about your data (Database models).
+
 ### How to create database
   
 1. Create models.py file.
