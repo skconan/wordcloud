@@ -30,3 +30,4 @@ For Social Networks Data Mining Subject
 * git add  [file]                     : Add files to index.
 * git commit -m [message]             : Record changes to the repository
 * git push [repository] [branch]    : Push data to Github.
+* git pull origin master -> git add [file] -> git commit -m ' [msg] -> git push origin master
